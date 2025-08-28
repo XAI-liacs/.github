@@ -21,6 +21,8 @@ Our current projects include:
 - **AI for Oversight**: Developing AI systems that assist in oversight functions across various sectors.
 - **XAIPre**: Focusing on explainable AI for predictive maintenance applications.
 - **Complex Lens Design Optimization**: Enhancing the design of complex lens systems through optimization techniques.
+- **BLADE**: Benchmarking LLM-driven automated algorithm design techniques for various problems.
+- **LLaMEA**: LLM-driven evolutionary automated algorithm design.
 
 ## Contact Us
 
